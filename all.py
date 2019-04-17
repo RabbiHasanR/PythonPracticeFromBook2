@@ -1,0 +1,5 @@
+number1=input("enter first number: ")
+number2=input("enter 2nd number: ")
+number1=int(number1)
+number2=int(number2)
+print("sum:",number1+number2,"sub:",number1-number2,"mul:",number1*number2,"div: ",number1/number2,"div2:",number1//number2,"mood:",number1%number2,"power:",number1**number2)
